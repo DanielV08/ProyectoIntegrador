@@ -1,8 +1,8 @@
-<center>
 
 
-<p><img src="https://mcd.unison.mx/wp-content/themes/awaken/img/logo_mcd.png" width="150">
-</p>
+
+<img src="https://mcd.unison.mx/wp-content/themes/awaken/img/logo_mcd.png" width="150">
+
 
 ## Proyecto Integrador
     
@@ -10,10 +10,6 @@
 Alumno: Daniel Eduardo Vázquez Espinoza
     
 Materia:  Ingeniería de Características
-
-
-</center>
-
 
 
 
