@@ -23,7 +23,7 @@ Este documento tiene la finalidad de hacer que los datos cuenten una historia, p
 * Elaboracion de un [dashboard](https://datastudio.google.com/reporting/f1fe7344-bfb8-414e-9889-e8374a24ee5e).
 
 ### Historia a contar
-El comportamiento de los delitos en Sonora antes y despues de pandemia, enfocado en los sigueintes puntos:
+El comportamiento de los delitos en Sonora antes y despues de pandemia, enfocado en los siguientes puntos:
 
   * Municipios con mayor crecimiento delictivo en tiempos de covid.
 
@@ -35,6 +35,9 @@ El comportamiento de los delitos en Sonora antes y despues de pandemia, enfocado
   ### Datos
   Para la elaboracion de este trabajo se utilizaron los datos abiertos de [Incidencia Delictiva](https://www.gob.mx/sesnsp/acciones-y-programas/datos-abiertos-de-incidencia-delictiva?state=published) emitidos por el Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública,
 
+### Resultados
+* Libreta [JupyterNotebook](https://github.com/DanielV08/ProyectoIntegrador/blob/main/ProyectoIntegrador_DanielVazquez.ipynb) y [HTML](https://github.com/DanielV08/ProyectoIntegrador/blob/main/ProyectoIntegradorHTML.html) con comentarios de todo el proceso.
+* [Tablero en DataStudio](https://datastudio.google.com/reporting/f1fe7344-bfb8-414e-9889-e8374a24ee5e)
 
-
-> docker run -it --name nombre_contenedor nombre_imagen 
+### Otros archivos
+*[Diccionario de datos](https://github.com/DanielV08/ProyectoIntegrador/blob/main/Diccionario%20de%20Datos.xlsx)
