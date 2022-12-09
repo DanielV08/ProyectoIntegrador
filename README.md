@@ -1,6 +1,26 @@
+<center>
+
+
+<p><img src="https://mcd.unison.mx/wp-content/themes/awaken/img/logo_mcd.png" width="150">
+</p>
+
+## Proyecto Integrador
+    
+
+Alumno: Daniel Eduardo Vázquez Espinoza
+    
+Materia:  Ingeniería de Características
+
+
+</center>
+
+
+
+
 # ProyectoIntegrador
 Proyecto Final para la materia de Ingenieria de Caracteristicas
 Objetivo
+
 
 La limpieza y descarga de los datos de la secretaría de salud para COVID-19, filtrando por personas adictas al tabaco en el estado de Sonora.
 Descripcion
